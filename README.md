@@ -1,2 +1,2 @@
-# Google-Foobar
+# Google Foobar
 The Google Foobar challenge 🏆
