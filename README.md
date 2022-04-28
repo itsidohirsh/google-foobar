@@ -27,7 +27,7 @@ At this level I had to solve 2 qustions, and had 7 days to solve each.
 - [Hey, I Already Did That!](https://github.com/ido-hi/google-foobar/tree/master/level-2/hey-i-already-did-that)
 - [Power Hungry](https://github.com/ido-hi/google-foobar/tree/master/level-2/power-hungry)
 
-After completing level 2 I got a shareable inventation link to the foobar challenge, so I could invite anyone I want to the challenge!
+After completing level 2 I got a shareable inventation link to the foobar challenge, so I could invite anyone I want!
 
 ### Level 3
 ...
