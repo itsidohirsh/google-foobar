@@ -16,9 +16,9 @@ The repo is seperated into the different levels, and in each level there are the
 
 
 ## Disclaimer
-_The code on this repository is for educational purposes.
+_The code in this repository is for educational purposes.
 You are doing yourself a great disservice if you just copy/paste my
-solutions_
+solutions._
 
 
 ## The challenges
